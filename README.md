@@ -1,10 +1,10 @@
-# 🎯 ReelCounter
+# ReelCounter
 
 ReelCounter is a Java Swing desktop application that tracks daily reel swipes and stores the data locally using SQLite. The application automatically saves swipe counts, restores today's progress after restarting, maintains a complete history, and fills skipped dates with zero entries to keep daily records consistent.
 
 ---
 
-## ✨ Features
+##  Features
 
 - ✅ Count reel swipes with a single click
 - ✅ Mouse wheel scrolling also increments the swipe count
@@ -16,7 +16,7 @@ ReelCounter is a Java Swing desktop application that tracks daily reel swipes an
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java
 - Java Swing
@@ -27,7 +27,7 @@ ReelCounter is a Java Swing desktop application that tracks daily reel swipes an
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ReelCounter
